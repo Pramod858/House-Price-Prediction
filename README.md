@@ -59,9 +59,3 @@ Alternatively, you can run the application using Docker.
 - Open your browser and navigate to `http://127.0.0.1:5000/`.
 - Input the details for the house (bedrooms, bathrooms, etc.).
 - Click the "Predict Price" button to get the predicted house price.
-
----
-
-Remember to replace placeholders like `yourusername`, `X.X.X`, `YOUR_LINKEDIN_PROFILE_URL`, and `YOUR_GITHUB_PROFILE_URL` with your actual information. Adjust the Python version based on your requirements.
-
-Feel free to add more sections or details based on the specifics of your project.
