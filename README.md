@@ -54,7 +54,9 @@ Alternatively, you can run the application using Docker.
 
    The application will be available at `http://127.0.0.1:5000/` in your browser.
 
-Extra : [link](https://github.com/Pramod858/House-Price-Prediction-MLflow.git) for House Price Prediction with MLflow. 
+## Extra : 
+
+Here is the [link](https://github.com/Pramod858/House-Price-Prediction-MLflow.git) for House Price Prediction with MLflow. 
 
 ## Usage
 
